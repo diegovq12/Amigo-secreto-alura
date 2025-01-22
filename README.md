@@ -24,7 +24,7 @@ Crear un programa capaz de realizar conversiones en las divisas de diferentes mo
 - **Implementación de API**: Integración sencilla con la API ExchangeRate.
 
 ## Herramientas Utilizadas
-![Static Badge](https://img.shields.io/badge/ExchangeRate_API-red)
+![Static Badge][(https://img.shields.io/badge/ExchangeRate_API-red)](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Gson_2.11.0-blue)
 ![Static Badge](https://img.shields.io/badge/Java_17-orange)
 
