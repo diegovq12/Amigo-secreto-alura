@@ -3,7 +3,6 @@
 # Amigo Secreto
 **Alura Challenge: Amigo Secreto**
 
-![insignia Desafio](Badge-Conversor.png)
 
 ## Tabla de Contenidos
 1. [Descripción](#descripción)
