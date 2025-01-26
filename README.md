@@ -1,7 +1,7 @@
 ![Logo Alura](https://media.licdn.com/dms/image/D5622AQGs6LsoRCsSmQ/feedshare-shrink_2048_1536/0/1682569167851?e=2147483647&v=beta&t=5DzfeL6KOhq_-woBzBhB5BNCBmUvIbkQZgmtI33OcCs)
 
-# Conversor de Monedas
-**Alura Challenge: Conversor de Monedas utilizando ExchangeRate-API**
+# Amigo Secreto
+**Alura Challenge: Amigo Secreto**
 
 ![insignia Desafio](insignia.webp)
 
@@ -13,20 +13,18 @@
 5. [Creditos](#Autor-y-Reconocimientos)
 
 ## Descripción
-Este proyecto es un conversor de monedas desarrollado como parte del Alura Challenge. Utiliza la API de ExchangeRate para obtener tasas de cambio en tiempo real y permite realizar conversiones entre diferentes divisas.
+Aplicación que permita e los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 ## Objetivo Principal
-Crear un programa capaz de realizar conversiones en las divisas de diferentes monedas, haciendo uso de la API ExchangeRate.
+El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
 ## Características
-- **Conversión en tiempo real**: Obtén tasas de cambio actualizadas al instante.
-- **Múltiples consultas**: Realiza conversiones entre diversas monedas.
-- **Implementación de API**: Integración sencilla con la API ExchangeRate.
+
 
 ## Herramientas Utilizadas
-![Static Badge](https://img.shields.io/badge/ExchangeRate_API-red)
-![Static Badge](https://img.shields.io/badge/Gson_2.11.0-blue)
-![Static Badge](https://img.shields.io/badge/Java_17-orange)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
+![Static Badge](https://img.shields.io/badge/HTML-orange)
 
 ## Autor y Reconocimientos
 - **Diego Quiros** - *Proyecto realizado* - [diegovq12](https://github.com/diegovq12)
