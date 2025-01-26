@@ -3,7 +3,7 @@
 # Conversor de Monedas
 **Alura Challenge: Conversor de Monedas utilizando ExchangeRate-API**
 
-![insignia Desafio](Badge-Conversor.png)
+![insignia Desafio](insignia.webp)
 
 ## Tabla de Contenidos
 1. [Descripción](#descripción)
