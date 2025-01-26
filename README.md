@@ -21,9 +21,9 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 
 ## Herramientas Utilizadas
-![Static Badge](https://img.shields.io/badge/JS)
-![Static Badge](https://img.shields.io/badge/Gson_2.11.0-blue)
-![Static Badge](https://img.shields.io/badge/Java_17-orange)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
+![Static Badge](https://img.shields.io/badge/HTML-orange)
 
 ## Autor y Reconocimientos
 - **Diego Quiros** - *Proyecto realizado* - [diegovq12](https://github.com/diegovq12)
